@@ -1,4 +1,6 @@
-The app has been deployed but is still in maintenance! Gotta clear a few bugs
+App has been completed and deployed to heroku. To use it, you will have to signup at Unsplash.com as a developer and then put up an environment variable in your environment 
+
+with the key REACT_APP_UNSPLASH_ACCESS_KEY and with the value of "Client-ID replaceaccesskeywiththis".
 
 ## Available Scripts
 
